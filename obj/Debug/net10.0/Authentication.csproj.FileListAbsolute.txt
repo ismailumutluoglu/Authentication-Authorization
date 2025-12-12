@@ -346,3 +346,4 @@ C:\Users\pc\Desktop\Authentication\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.S
 C:\Users\pc\Desktop\Authentication\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\pc\Desktop\Authentication\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\pc\Desktop\Authentication\obj\Debug\net10.0\compressed\a3uze5rabc-{0}-4zqax494sv-4zqax494sv.gz
+C:\Users\pc\Desktop\Authentication\obj\Debug\net10.0\Authentication.sourcelink.json
