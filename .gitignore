@@ -23,6 +23,11 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# Ensure recursive ignore of build/editor folders
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
@@ -43,6 +48,12 @@ ScaffoldingReadMe.txt
 ~$*
 *~
 CodeCoverage/
+
+# VS Code project settings
+.vscode/
+
+# Visual Studio workspace cache
+.vs/
 
 # MSBuild Binary and Structured Log
 *.binlog
