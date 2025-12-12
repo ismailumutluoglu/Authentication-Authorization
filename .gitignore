@@ -46,6 +46,15 @@ bld/
 # Mac files
 .DS_Store
 
+# VS Code
+.vscode/
+
+# Optional local settings (uncomment if needed)
+# appsettings.Development.json
+
+# Static build outputs (optional)
+# wwwroot/dist/
+
 # F#
 *.fsi.cache
 
